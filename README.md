@@ -1,6 +1,8 @@
 # garage_tracking_and_parking
 
 A new Flutter project.
+QuickPark is Online Parking Slot Booking app and Tracking. User can search parking and book slot using this app . So, It is support android and ios both.
+The awesome looking app can be used for both Android and iOS platforms. It is optimized coded and easy to customize.
 
 ## Getting Started
 
